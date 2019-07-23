@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using CNPJMVC.Models;
 
-namespace CNPJMVC.Controllers
+namespace WebApplication3.Controllers
 {
     public class HomeController : Controller
     {

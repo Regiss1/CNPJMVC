@@ -36,7 +36,7 @@ namespace CNPJMVC
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
 
-            services.AddDbContext<EmployeeContext>(Options => {
+            services.AddDbContext<LojaContext>(Options => {
                 Options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection"));
             });
         }
@@ -62,7 +62,7 @@ namespace CNPJMVC
             {
                 routes.MapRoute(
                     name: "default",
-                    template: "{controller=Home}/{action=Index}/{id?}");
+                    template: "{controller=Loja}/{action=Index}/{id?}");
             });
         }
     }

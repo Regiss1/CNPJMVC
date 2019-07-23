@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace CNPJMVC.Models
 {
-    public class EmployeeContext :DbContext
+    public class LojaContext : DbContext
     {
-        public EmployeeContext(DbContextOptions<EmployeeContext> options) :base(options)
+        public LojaContext(DbContextOptions<LojaContext> options) : base(options)
         {
         }
 
-        public DbSet<Employee> Employees { get; set; }
+        public DbSet<Loja> Lojas { get; set; }
     }
 }

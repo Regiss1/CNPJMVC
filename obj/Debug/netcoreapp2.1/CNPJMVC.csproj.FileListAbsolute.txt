@@ -14,7 +14,6 @@ C:\Users\Regis-Pc\source\repos\CNPJMVC\CNPJMVC\obj\Debug\netcoreapp2.1\CNPJMVC.R
 C:\Users\Regis-Pc\source\repos\CNPJMVC\CNPJMVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
 C:\Users\Regis-Pc\source\repos\CNPJMVC\CNPJMVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
 C:\Users\Regis-Pc\source\repos\CNPJMVC\CNPJMVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
-C:\Users\Regis-Pc\source\repos\CNPJMVC\CNPJMVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
 C:\Users\Regis-Pc\source\repos\CNPJMVC\CNPJMVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
 C:\Users\Regis-Pc\source\repos\CNPJMVC\CNPJMVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
 C:\Users\Regis-Pc\source\repos\CNPJMVC\CNPJMVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
@@ -30,3 +29,8 @@ C:\Users\Regis-Pc\source\repos\CNPJMVC\CNPJMVC\obj\Debug\netcoreapp2.1\CNPJMVC.V
 C:\Users\Regis-Pc\source\repos\CNPJMVC\CNPJMVC\obj\Debug\netcoreapp2.1\CNPJMVC.dll
 C:\Users\Regis-Pc\source\repos\CNPJMVC\CNPJMVC\obj\Debug\netcoreapp2.1\CNPJMVC.pdb
 C:\Users\Regis-Pc\source\repos\CNPJMVC\CNPJMVC\obj\Debug\netcoreapp2.1\CNPJMVC.csproj.CopyComplete
+C:\Users\Regis-Pc\source\repos\CNPJMVC\CNPJMVC\obj\Debug\netcoreapp2.1\Razor\Views\Loja\Create.g.cshtml.cs
+C:\Users\Regis-Pc\source\repos\CNPJMVC\CNPJMVC\obj\Debug\netcoreapp2.1\Razor\Views\Loja\Delete.g.cshtml.cs
+C:\Users\Regis-Pc\source\repos\CNPJMVC\CNPJMVC\obj\Debug\netcoreapp2.1\Razor\Views\Loja\Details.g.cshtml.cs
+C:\Users\Regis-Pc\source\repos\CNPJMVC\CNPJMVC\obj\Debug\netcoreapp2.1\Razor\Views\Loja\Edit.g.cshtml.cs
+C:\Users\Regis-Pc\source\repos\CNPJMVC\CNPJMVC\obj\Debug\netcoreapp2.1\Razor\Views\Loja\Index.g.cshtml.cs
