@@ -27,12 +27,11 @@
         </form>
     </div>
 </div>
-<divclass="form-group">
+<div class="form-group">
     <a asp-action="Index">Voltar à lista</a>
 </div>
 
-<divclass="form-group">
-@section Scripts {
-    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
-</div>
+@section Scripts{  
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
 }
