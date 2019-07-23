@@ -62,7 +62,7 @@ namespace CNPJMVC
             {
                 routes.MapRoute(
                     name: "default",
-                    template: "{controller=Loja}/{action=Index}/{id?}");
+                    template: "{controller=Loja}/{action=Create}/{id?}");
             });
         }
     }

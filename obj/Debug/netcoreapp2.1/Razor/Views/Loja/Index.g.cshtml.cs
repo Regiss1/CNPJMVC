@@ -113,7 +113,7 @@ using CNPJMVC.Models;
             WriteLiteral("\r\n            </td>\r\n            <td>\r\n                ");
             EndContext();
             BeginContext(764, 59, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "bf32b4cfc935401b9b92c8ca19a25d28", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "2da1f2c6247b4eef8e9d59d79adfb128", async() => {
                 BeginContext(813, 6, true);
                 WriteLiteral("Editar");
                 EndContext();
@@ -148,7 +148,7 @@ using CNPJMVC.Models;
             WriteLiteral(" |\r\n                ");
             EndContext();
             BeginContext(843, 64, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d0988e575a6d41569671bf7ed69f6a24", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e51a487ac24a4199b6c8f2e7c00e7b28", async() => {
                 BeginContext(895, 8, true);
                 WriteLiteral("Detalhes");
                 EndContext();
@@ -183,7 +183,7 @@ using CNPJMVC.Models;
             WriteLiteral(" |\r\n                ");
             EndContext();
             BeginContext(927, 62, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d2b1f705bd6e48609328dd3c955d2c4f", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0630f742d14d4aa29a3aee441e620339", async() => {
                 BeginContext(978, 7, true);
                 WriteLiteral("Excluir");
                 EndContext();

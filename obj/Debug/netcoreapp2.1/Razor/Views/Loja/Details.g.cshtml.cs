@@ -104,7 +104,7 @@ using CNPJMVC.Models;
             WriteLiteral("\r\n        </dd>\r\n    </dl>\r\n</div>\r\n<div>\r\n    ");
             EndContext();
             BeginContext(541, 60, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ba5f427525b144f9a4d7816724197139", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "1da20008d2e54aafb32e78043ed9c8ca", async() => {
                 BeginContext(591, 6, true);
                 WriteLiteral("Editar");
                 EndContext();
@@ -139,7 +139,7 @@ using CNPJMVC.Models;
             WriteLiteral(" |\r\n    ");
             EndContext();
             BeginContext(609, 45, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "aa4f8a6762ed41a4adf95a29ef08baa0", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "2128660efb2249329cc6cfc2e7f62bd7", async() => {
                 BeginContext(631, 19, true);
                 WriteLiteral("Voltar para a lista");
                 EndContext();
