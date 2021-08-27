@@ -1,6 +1,6 @@
 # **Web application for Training**
 
-Objective: 
+**Objective:** 
 
 To create a website where users could register their stores with their National Registration Codes. 
 
