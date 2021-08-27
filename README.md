@@ -13,5 +13,7 @@ To create a website where users could register their stores with their National 
    - Creating a Database
  
    - Creating a Table
- 
+
+   - Defining a Primary Key
+
    - Using Insert, Update, and Delete commands from runtime
