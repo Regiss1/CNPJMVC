@@ -6,6 +6,10 @@ Learned concepts:
 - MVC structure
 - Login implementation
 - Using Sql Server LocalDb from Visual Studio
-> Creating a Database
-> Creating a Table
-> Using Insert, Update, and Delete commands froom runtime
+- SQL: 
+
+   - Creating a Database
+ 
+   - Creating a Table
+ 
+   - Using Insert, Update, and Delete commands from runtime
