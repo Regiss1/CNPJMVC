@@ -1,3 +1,11 @@
-# **Projeto de Web App simples para cadastro de lojas**
+# **Web application for Training **
 
-Feito a partir do modelo para Aplicativo Web(Modelo-Exibição-Controlador) MS Visual Studio 2019
+Objective: 
+To create a website where users could register their stores with their National Registration Codes. 
+Learned concepts:
+- MVC structure
+- Login implementation
+- Using Sql Server LocalDb from Visual Studio
+> Creating a Database
+> Creating a Table
+> Using Insert, Update, and Delete commands froom runtime
